@@ -8,8 +8,4 @@ fitz roy - https://drive.google.com/file/d/12CvcD4r2WnNgriu6NbaspFRYzDdNw9e8/vie
 
 patagonia - https://drive.google.com/file/d/1CYd1Gl3cHWem26xkxfKr-HmEU7MUzyX_/view?usp=sharing
 
-us before eclipse - https://drive.google.com/file/d/1nLg5iTNCBUCD9M4zLJJ2SM_qM9IvnQRE/view?usp=sharing
-
-us during eclipse - https://drive.google.com/file/d/10fdHYJAmYo28x_wEDvkXrAnersXqTHJv/view?usp=sharing
-
-download photos for better quality
+Download photos for better quality. Will upload Jupyter Notebooks soon.
